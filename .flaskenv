@@ -1,0 +1,3 @@
+FLASK_APP=KibPY
+FLASK_ENV=development
+FLASK_DEBUG=0
